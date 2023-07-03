@@ -1,0 +1,2502 @@
+[
+  {
+    "id": 1,
+    "artist": "The Weeknd",
+    "listener": "107,218,457"
+  },
+  {
+    "id": 2,
+    "artist": "Taylor Swift",
+    "listener": "91,975,582"
+  },
+  {
+    "id": 3,
+    "artist": "Ed Sheeran",
+    "listener": "82,621,332"
+  },
+  {
+    "id": 4,
+    "artist": "Miley Cyrus",
+    "listener": "75,125,593"
+  },
+  {
+    "id": 5,
+    "artist": "Rihanna",
+    "listener": "75,003,933"
+  },
+  {
+    "id": 6,
+    "artist": "David Guetta",
+    "listener": "74,995,805"
+  },
+  {
+    "id": 7,
+    "artist": "Bad Bunny",
+    "listener": "73,982,082"
+  },
+  {
+    "id": 8,
+    "artist": "Drake",
+    "listener": "72,549,457"
+  },
+  {
+    "id": 9,
+    "artist": "Justin Bieber",
+    "listener": "72,324,545"
+  },
+  {
+    "id": 10,
+    "artist": "Shakira",
+    "listener": "71,505,721"
+  },
+  {
+    "id": 11,
+    "artist": "Dua Lipa",
+    "listener": "71,259,229"
+  },
+  {
+    "id": 12,
+    "artist": "Ariana Grande",
+    "listener": "69,130,684"
+  },
+  {
+    "id": 13,
+    "artist": "Coldplay",
+    "listener": "68,884,057"
+  },
+  {
+    "id": 14,
+    "artist": "Calvin Harris",
+    "listener": "66,616,403"
+  },
+  {
+    "id": 15,
+    "artist": "Harry Styles",
+    "listener": "65,650,494"
+  },
+  {
+    "id": 16,
+    "artist": "Eminem",
+    "listener": "65,618,977"
+  },
+  {
+    "id": 17,
+    "artist": "Metro Boomin",
+    "listener": "62,624,466"
+  },
+  {
+    "id": 18,
+    "artist": "Post Malone",
+    "listener": "62,236,222"
+  },
+  {
+    "id": 19,
+    "artist": "Bruno Mars",
+    "listener": "61,860,503"
+  },
+  {
+    "id": 20,
+    "artist": "SZA",
+    "listener": "61,699,629"
+  },
+  {
+    "id": 21,
+    "artist": "Imagine Dragons",
+    "listener": "61,075,234"
+  },
+  {
+    "id": 22,
+    "artist": "Maroon 5",
+    "listener": "58,601,807"
+  },
+  {
+    "id": 23,
+    "artist": "21 Savage",
+    "listener": "57,891,021"
+  },
+  {
+    "id": 24,
+    "artist": "Kanye West",
+    "listener": "56,587,759"
+  },
+  {
+    "id": 25,
+    "artist": "Daddy Yankee",
+    "listener": "56,529,114"
+  },
+  {
+    "id": 26,
+    "artist": "Billie Eilish",
+    "listener": "55,582,526"
+  },
+  {
+    "id": 27,
+    "artist": "Marshmello",
+    "listener": "55,512,487"
+  },
+  {
+    "id": 28,
+    "artist": "Selena Gomez",
+    "listener": "55,425,340"
+  },
+  {
+    "id": 29,
+    "artist": "Sam Smith",
+    "listener": "55,368,709"
+  },
+  {
+    "id": 30,
+    "artist": "Lana Del Rey",
+    "listener": "54,898,711"
+  },
+  {
+    "id": 31,
+    "artist": "J Balvin",
+    "listener": "54,667,834"
+  },
+  {
+    "id": 32,
+    "artist": "Lady Gaga",
+    "listener": "54,513,330"
+  },
+  {
+    "id": 33,
+    "artist": "Nicki Minaj",
+    "listener": "53,955,775"
+  },
+  {
+    "id": 34,
+    "artist": "Peso Pluma",
+    "listener": "53,664,083"
+  },
+  {
+    "id": 35,
+    "artist": "Doja Cat",
+    "listener": "53,525,437"
+  },
+  {
+    "id": 36,
+    "artist": "Katy Perry",
+    "listener": "52,897,755"
+  },
+  {
+    "id": 37,
+    "artist": "Beyoncé",
+    "listener": "52,762,535"
+  },
+  {
+    "id": 38,
+    "artist": "Khalid",
+    "listener": "52,190,337"
+  },
+  {
+    "id": 39,
+    "artist": "Future",
+    "listener": "52,189,198"
+  },
+  {
+    "id": 40,
+    "artist": "Adele",
+    "listener": "52,147,515"
+  },
+  {
+    "id": 41,
+    "artist": "Kendrick Lamar",
+    "listener": "51,777,105"
+  },
+  {
+    "id": 42,
+    "artist": "Bizarrap",
+    "listener": "51,501,967"
+  },
+  {
+    "id": 43,
+    "artist": "Travis Scott",
+    "listener": "51,177,642"
+  },
+  {
+    "id": 44,
+    "artist": "Ozuna",
+    "listener": "50,720,473"
+  },
+  {
+    "id": 45,
+    "artist": "Elton John",
+    "listener": "50,064,898"
+  },
+  {
+    "id": 46,
+    "artist": "Chris Brown",
+    "listener": "50,057,872"
+  },
+  {
+    "id": 47,
+    "artist": "Rauw Alejandro",
+    "listener": "49,972,134"
+  },
+  {
+    "id": 48,
+    "artist": "OneRepublic",
+    "listener": "49,842,576"
+  },
+  {
+    "id": 49,
+    "artist": "KAROL G",
+    "listener": "48,474,789"
+  },
+  {
+    "id": 50,
+    "artist": "Queen",
+    "listener": "48,440,433"
+  },
+  {
+    "id": 51,
+    "artist": "Swae Lee",
+    "listener": "46,937,435"
+  },
+  {
+    "id": 52,
+    "artist": "Shawn Mendes",
+    "listener": "46,916,051"
+  },
+  {
+    "id": 53,
+    "artist": "Sia",
+    "listener": "46,377,927"
+  },
+  {
+    "id": 54,
+    "artist": "Arctic Monkeys",
+    "listener": "45,382,397"
+  },
+  {
+    "id": 55,
+    "artist": "Bebe Rexha",
+    "listener": "45,349,374"
+  },
+  {
+    "id": 56,
+    "artist": "Halsey",
+    "listener": "44,593,960"
+  },
+  {
+    "id": 57,
+    "artist": "Ellie Goulding",
+    "listener": "43,915,380"
+  },
+  {
+    "id": 58,
+    "artist": "J. Cole",
+    "listener": "43,573,307"
+  },
+  {
+    "id": 59,
+    "artist": "Tiësto",
+    "listener": "42,709,526"
+  },
+  {
+    "id": 60,
+    "artist": "Madonna",
+    "listener": "42,303,436"
+  },
+  {
+    "id": 61,
+    "artist": "Charlie Puth",
+    "listener": "41,793,921"
+  },
+  {
+    "id": 62,
+    "artist": "ROSALÍA",
+    "listener": "41,224,799"
+  },
+  {
+    "id": 63,
+    "artist": "Black Eyed Peas",
+    "listener": "41,003,412"
+  },
+  {
+    "id": 64,
+    "artist": "One Direction",
+    "listener": "40,903,677"
+  },
+  {
+    "id": 65,
+    "artist": "Feid",
+    "listener": "40,666,668"
+  },
+  {
+    "id": 66,
+    "artist": "BTS",
+    "listener": "40,528,547"
+  },
+  {
+    "id": 67,
+    "artist": "Camila Cabello",
+    "listener": "40,060,927"
+  },
+  {
+    "id": 68,
+    "artist": "Farruko",
+    "listener": "39,462,256"
+  },
+  {
+    "id": 69,
+    "artist": "Anne-Marie",
+    "listener": "39,081,029"
+  },
+  {
+    "id": 70,
+    "artist": "Olivia Rodrigo",
+    "listener": "39,065,356"
+  },
+  {
+    "id": 71,
+    "artist": "Lil Wayne",
+    "listener": "38,697,481"
+  },
+  {
+    "id": 72,
+    "artist": "Sean Paul",
+    "listener": "38,547,786"
+  },
+  {
+    "id": 73,
+    "artist": "Coi Leray",
+    "listener": "38,325,097"
+  },
+  {
+    "id": 74,
+    "artist": "Eslabon Armado",
+    "listener": "38,092,609"
+  },
+  {
+    "id": 75,
+    "artist": "Lil Uzi Vert",
+    "listener": "38,040,760"
+  },
+  {
+    "id": 76,
+    "artist": "The Chainsmokers",
+    "listener": "37,649,386"
+  },
+  {
+    "id": 77,
+    "artist": "Rema",
+    "listener": "37,627,298"
+  },
+  {
+    "id": 78,
+    "artist": "Pitbull",
+    "listener": "37,445,441"
+  },
+  {
+    "id": 79,
+    "artist": "Michael Jackson",
+    "listener": "37,185,040"
+  },
+  {
+    "id": 80,
+    "artist": "James Arthur",
+    "listener": "37,071,258"
+  },
+  {
+    "id": 81,
+    "artist": "Myke Towers",
+    "listener": "36,984,611"
+  },
+  {
+    "id": 82,
+    "artist": "Arijit Singh",
+    "listener": "36,907,043"
+  },
+  {
+    "id": 83,
+    "artist": "Avicii",
+    "listener": "36,858,314"
+  },
+  {
+    "id": 84,
+    "artist": "XXXTENTACION",
+    "listener": "36,740,100"
+  },
+  {
+    "id": 85,
+    "artist": "Becky G",
+    "listener": "35,915,525"
+  },
+  {
+    "id": 86,
+    "artist": "JAY-Z",
+    "listener": "35,687,863"
+  },
+  {
+    "id": 87,
+    "artist": "Ice Spice",
+    "listener": "35,470,659"
+  },
+  {
+    "id": 88,
+    "artist": "P!nk",
+    "listener": "35,317,790"
+  },
+  {
+    "id": 89,
+    "artist": "Lewis Capaldi",
+    "listener": "34,904,838"
+  },
+  {
+    "id": 90,
+    "artist": "Grupo Frontera",
+    "listener": "34,816,387"
+  },
+  {
+    "id": 91,
+    "artist": "Pritam",
+    "listener": "34,758,680"
+  },
+  {
+    "id": 92,
+    "artist": "Don Omar",
+    "listener": "34,411,450"
+  },
+  {
+    "id": 93,
+    "artist": "Maluma",
+    "listener": "34,278,077"
+  },
+  {
+    "id": 94,
+    "artist": "Linkin Park",
+    "listener": "34,103,770"
+  },
+  {
+    "id": 95,
+    "artist": "Anuel AA",
+    "listener": "33,880,129"
+  },
+  {
+    "id": 96,
+    "artist": "Manuel Turizo",
+    "listener": "33,757,837"
+  },
+  {
+    "id": 97,
+    "artist": "Lil Durk",
+    "listener": "33,461,306"
+  },
+  {
+    "id": 98,
+    "artist": "FIFTY FIFTY",
+    "listener": "33,459,618"
+  },
+  {
+    "id": 99,
+    "artist": "Jason Derulo",
+    "listener": "33,412,054"
+  },
+  {
+    "id": 100,
+    "artist": "DJ Snake",
+    "listener": "33,336,443"
+  },
+  {
+    "id": 101,
+    "artist": "Britney Spears",
+    "listener": "33,183,898"
+  },
+  {
+    "id": 102,
+    "artist": "Alan Walker",
+    "listener": "33,119,961"
+  },
+  {
+    "id": 103,
+    "artist": "Tyler, The Creator",
+    "listener": "33,063,629"
+  },
+  {
+    "id": 104,
+    "artist": "A$AP Rocky",
+    "listener": "33,011,550"
+  },
+  {
+    "id": 105,
+    "artist": "Diplo",
+    "listener": "32,843,662"
+  },
+  {
+    "id": 106,
+    "artist": "Young Thug",
+    "listener": "32,755,734"
+  },
+  {
+    "id": 107,
+    "artist": "Juice WRLD",
+    "listener": "32,485,552"
+  },
+  {
+    "id": 108,
+    "artist": "Lil Nas X",
+    "listener": "32,381,946"
+  },
+  {
+    "id": 109,
+    "artist": "Playboi Carti",
+    "listener": "32,330,424"
+  },
+  {
+    "id": 110,
+    "artist": "Quevedo",
+    "listener": "32,185,390"
+  },
+  {
+    "id": 111,
+    "artist": "Pharrell Williams",
+    "listener": "32,158,027"
+  },
+  {
+    "id": 112,
+    "artist": "Kali Uchis",
+    "listener": "32,155,665"
+  },
+  {
+    "id": 113,
+    "artist": "The Neighbourhood",
+    "listener": "32,097,919"
+  },
+  {
+    "id": 114,
+    "artist": "50 Cent",
+    "listener": "31,909,219"
+  },
+  {
+    "id": 115,
+    "artist": "A.R. Rahman",
+    "listener": "31,740,597"
+  },
+  {
+    "id": 116,
+    "artist": "Fleetwood Mac",
+    "listener": "31,702,360"
+  },
+  {
+    "id": 117,
+    "artist": "Wiz Khalifa",
+    "listener": "31,604,245"
+  },
+  {
+    "id": 118,
+    "artist": "The Kid LAROI",
+    "listener": "31,548,583"
+  },
+  {
+    "id": 119,
+    "artist": "The Beatles",
+    "listener": "31,545,494"
+  },
+  {
+    "id": 120,
+    "artist": "DaBaby",
+    "listener": "31,363,035"
+  },
+  {
+    "id": 121,
+    "artist": "Kodak Black",
+    "listener": "31,279,141"
+  },
+  {
+    "id": 122,
+    "artist": "Justin Timberlake",
+    "listener": "31,092,233"
+  },
+  {
+    "id": 123,
+    "artist": "Lil Baby",
+    "listener": "31,060,201"
+  },
+  {
+    "id": 124,
+    "artist": "Shreya Ghoshal",
+    "listener": "30,963,312"
+  },
+  {
+    "id": 125,
+    "artist": "Yng Lvcas",
+    "listener": "30,656,027"
+  },
+  {
+    "id": 126,
+    "artist": "Macklemore",
+    "listener": "30,615,296"
+  },
+  {
+    "id": 127,
+    "artist": "Red Hot Chili Peppers",
+    "listener": "30,602,066"
+  },
+  {
+    "id": 128,
+    "artist": "JVKE",
+    "listener": "30,592,682"
+  },
+  {
+    "id": 129,
+    "artist": "Labrinth",
+    "listener": "30,500,041"
+  },
+  {
+    "id": 130,
+    "artist": "Snoop Dogg",
+    "listener": "30,428,104"
+  },
+  {
+    "id": 131,
+    "artist": "Chencho Corleone",
+    "listener": "30,357,574"
+  },
+  {
+    "id": 132,
+    "artist": "Cardi B",
+    "listener": "30,198,382"
+  },
+  {
+    "id": 133,
+    "artist": "Stephen Sanchez",
+    "listener": "30,175,735"
+  },
+  {
+    "id": 134,
+    "artist": "Nicky Jam",
+    "listener": "30,145,252"
+  },
+  {
+    "id": 135,
+    "artist": "Robin Schulz",
+    "listener": "30,096,666"
+  },
+  {
+    "id": 136,
+    "artist": "Jack Harlow",
+    "listener": "29,954,755"
+  },
+  {
+    "id": 137,
+    "artist": "Jhayco",
+    "listener": "29,740,919"
+  },
+  {
+    "id": 138,
+    "artist": "AC/DC",
+    "listener": "29,037,591"
+  },
+  {
+    "id": 139,
+    "artist": "Ty Dolla $ign",
+    "listener": "28,880,945"
+  },
+  {
+    "id": 140,
+    "artist": "Ava Max",
+    "listener": "28,818,713"
+  },
+  {
+    "id": 141,
+    "artist": "Creedence Clearwater Revival",
+    "listener": "28,776,507"
+  },
+  {
+    "id": 142,
+    "artist": "Kygo",
+    "listener": "28,428,049"
+  },
+  {
+    "id": 143,
+    "artist": "Demi Lovato",
+    "listener": "28,377,997"
+  },
+  {
+    "id": 144,
+    "artist": "Miguel",
+    "listener": "28,341,642"
+  },
+  {
+    "id": 145,
+    "artist": "Nirvana",
+    "listener": "28,310,769"
+  },
+  {
+    "id": 146,
+    "artist": "ABBA",
+    "listener": "28,275,658"
+  },
+  {
+    "id": 147,
+    "artist": "Guns N' Roses",
+    "listener": "28,154,161"
+  },
+  {
+    "id": 148,
+    "artist": "Central Cee",
+    "listener": "27,995,112"
+  },
+  {
+    "id": 149,
+    "artist": "Flo Rida",
+    "listener": "27,960,692"
+  },
+  {
+    "id": 150,
+    "artist": "Calum Scott",
+    "listener": "27,913,079"
+  },
+  {
+    "id": 151,
+    "artist": "Don Toliver",
+    "listener": "27,911,395"
+  },
+  {
+    "id": 152,
+    "artist": "Kim Petras",
+    "listener": "27,897,316"
+  },
+  {
+    "id": 153,
+    "artist": "Gunna",
+    "listener": "27,835,769"
+  },
+  {
+    "id": 154,
+    "artist": "PinkPantheress",
+    "listener": "27,732,013"
+  },
+  {
+    "id": 155,
+    "artist": "Meghan Trainor",
+    "listener": "27,715,271"
+  },
+  {
+    "id": 156,
+    "artist": "Sebastian Yatra",
+    "listener": "27,656,540"
+  },
+  {
+    "id": 157,
+    "artist": "d4vd",
+    "listener": "27,413,160"
+  },
+  {
+    "id": 158,
+    "artist": "Usher",
+    "listener": "27,332,217"
+  },
+  {
+    "id": 159,
+    "artist": "Steve Lacy",
+    "listener": "27,272,342"
+  },
+  {
+    "id": 160,
+    "artist": "Green Day",
+    "listener": "27,098,666"
+  },
+  {
+    "id": 161,
+    "artist": "Amitabh Bhattacharya",
+    "listener": "26,929,478"
+  },
+  {
+    "id": 162,
+    "artist": "Daniel Caesar",
+    "listener": "26,903,719"
+  },
+  {
+    "id": 163,
+    "artist": "David Kushner",
+    "listener": "26,535,531"
+  },
+  {
+    "id": 164,
+    "artist": "Bon Jovi",
+    "listener": "26,349,335"
+  },
+  {
+    "id": 165,
+    "artist": "Panic! At The Disco",
+    "listener": "26,260,944"
+  },
+  {
+    "id": 166,
+    "artist": "Frank Ocean",
+    "listener": "26,151,740"
+  },
+  {
+    "id": 167,
+    "artist": "Morgan Wallen",
+    "listener": "26,086,012"
+  },
+  {
+    "id": 168,
+    "artist": "Glass Animals",
+    "listener": "25,952,074"
+  },
+  {
+    "id": 169,
+    "artist": "Maria Becerra",
+    "listener": "25,848,688"
+  },
+  {
+    "id": 170,
+    "artist": "Hozier",
+    "listener": "25,732,191"
+  },
+  {
+    "id": 171,
+    "artist": "Metallica",
+    "listener": "25,721,155"
+  },
+  {
+    "id": 172,
+    "artist": "DJ Khaled",
+    "listener": "25,580,561"
+  },
+  {
+    "id": 173,
+    "artist": "Duki",
+    "listener": "25,549,076"
+  },
+  {
+    "id": 174,
+    "artist": "Tom Odell",
+    "listener": "25,342,827"
+  },
+  {
+    "id": 175,
+    "artist": "Yandel",
+    "listener": "25,310,825"
+  },
+  {
+    "id": 176,
+    "artist": "Lost Frequencies",
+    "listener": "25,276,613"
+  },
+  {
+    "id": 177,
+    "artist": "The Rolling Stones",
+    "listener": "25,236,568"
+  },
+  {
+    "id": 178,
+    "artist": "Romeo Santos",
+    "listener": "25,129,233"
+  },
+  {
+    "id": 179,
+    "artist": "Bee Gees",
+    "listener": "25,091,493"
+  },
+  {
+    "id": 180,
+    "artist": "RAYE",
+    "listener": "25,015,010"
+  },
+  {
+    "id": 181,
+    "artist": "Tyga",
+    "listener": "25,002,447"
+  },
+  {
+    "id": 182,
+    "artist": "Arcángel",
+    "listener": "24,999,252"
+  },
+  {
+    "id": 183,
+    "artist": "Gorillaz",
+    "listener": "24,946,797"
+  },
+  {
+    "id": 184,
+    "artist": "Junior H",
+    "listener": "24,851,406"
+  },
+  {
+    "id": 185,
+    "artist": "Eladio Carrion",
+    "listener": "24,796,546"
+  },
+  {
+    "id": 186,
+    "artist": "Offset",
+    "listener": "24,786,626"
+  },
+  {
+    "id": 187,
+    "artist": "Alicia Keys",
+    "listener": "24,761,170"
+  },
+  {
+    "id": 188,
+    "artist": "Pop Smoke",
+    "listener": "24,752,096"
+  },
+  {
+    "id": 189,
+    "artist": "The Police",
+    "listener": "24,720,314"
+  },
+  {
+    "id": 190,
+    "artist": "Elley Duhé",
+    "listener": "24,643,537"
+  },
+  {
+    "id": 191,
+    "artist": "Sachin-Jigar",
+    "listener": "24,634,068"
+  },
+  {
+    "id": 192,
+    "artist": "Giveon",
+    "listener": "24,622,036"
+  },
+  {
+    "id": 193,
+    "artist": "Enrique Iglesias",
+    "listener": "24,601,619"
+  },
+  {
+    "id": 194,
+    "artist": "Joji",
+    "listener": "24,507,442"
+  },
+  {
+    "id": 195,
+    "artist": "Whitney Houston",
+    "listener": "24,300,112"
+  },
+  {
+    "id": 196,
+    "artist": "Fuerza Regida",
+    "listener": "24,282,720"
+  },
+  {
+    "id": 197,
+    "artist": "Tainy",
+    "listener": "24,275,632"
+  },
+  {
+    "id": 198,
+    "artist": "JID",
+    "listener": "24,269,577"
+  },
+  {
+    "id": 199,
+    "artist": "Major Lazer",
+    "listener": "24,250,005"
+  },
+  {
+    "id": 200,
+    "artist": "Tate McRae",
+    "listener": "24,225,748"
+  },
+  {
+    "id": 201,
+    "artist": "Mariah Carey",
+    "listener": "24,149,821"
+  },
+  {
+    "id": 202,
+    "artist": "Tame Impala",
+    "listener": "24,126,017"
+  },
+  {
+    "id": 203,
+    "artist": "2Pac",
+    "listener": "24,104,215"
+  },
+  {
+    "id": 204,
+    "artist": "Christina Aguilera",
+    "listener": "24,103,622"
+  },
+  {
+    "id": 205,
+    "artist": "Zara Larsson",
+    "listener": "24,079,500"
+  },
+  {
+    "id": 206,
+    "artist": "BLACKPINK",
+    "listener": "23,990,474"
+  },
+  {
+    "id": 207,
+    "artist": "Twenty One Pilots",
+    "listener": "23,970,869"
+  },
+  {
+    "id": 208,
+    "artist": "Vishal-Shekhar",
+    "listener": "23,897,704"
+  },
+  {
+    "id": 209,
+    "artist": "Martin Garrix",
+    "listener": "23,853,508"
+  },
+  {
+    "id": 210,
+    "artist": "NAV",
+    "listener": "23,711,623"
+  },
+  {
+    "id": 211,
+    "artist": "Anitta",
+    "listener": "23,661,537"
+  },
+  {
+    "id": 212,
+    "artist": "Radiohead",
+    "listener": "23,643,647"
+  },
+  {
+    "id": 213,
+    "artist": "R3HAB",
+    "listener": "23,537,147"
+  },
+  {
+    "id": 214,
+    "artist": "Mac Miller",
+    "listener": "23,514,739"
+  },
+  {
+    "id": 215,
+    "artist": "Jennifer Lopez",
+    "listener": "23,448,261"
+  },
+  {
+    "id": 216,
+    "artist": "Disney",
+    "listener": "23,440,551"
+  },
+  {
+    "id": 217,
+    "artist": "Kid Cudi",
+    "listener": "23,355,206"
+  },
+  {
+    "id": 218,
+    "artist": "Akon",
+    "listener": "23,314,766"
+  },
+  {
+    "id": 219,
+    "artist": "Em Beihold",
+    "listener": "23,291,419"
+  },
+  {
+    "id": 220,
+    "artist": "Luis Fonsi",
+    "listener": "23,266,414"
+  },
+  {
+    "id": 221,
+    "artist": "Conan Gray",
+    "listener": "23,165,468"
+  },
+  {
+    "id": 222,
+    "artist": "Aerosmith",
+    "listener": "23,142,202"
+  },
+  {
+    "id": 223,
+    "artist": "Megan Thee Stallion",
+    "listener": "23,141,293"
+  },
+  {
+    "id": 224,
+    "artist": "The Notorious B.I.G.",
+    "listener": "23,083,472"
+  },
+  {
+    "id": 225,
+    "artist": "Dr. Dre",
+    "listener": "23,078,338"
+  },
+  {
+    "id": 226,
+    "artist": "Swedish House Mafia",
+    "listener": "23,064,994"
+  },
+  {
+    "id": 227,
+    "artist": "Fall Out Boy",
+    "listener": "22,985,818"
+  },
+  {
+    "id": 228,
+    "artist": "Nelly Furtado",
+    "listener": "22,859,171"
+  },
+  {
+    "id": 229,
+    "artist": "Jonas Blue",
+    "listener": "22,814,440"
+  },
+  {
+    "id": 230,
+    "artist": "Young Miko",
+    "listener": "22,799,481"
+  },
+  {
+    "id": 231,
+    "artist": "Natanael Cano",
+    "listener": "22,796,991"
+  },
+  {
+    "id": 232,
+    "artist": "Childish Gambino",
+    "listener": "22,748,947"
+  },
+  {
+    "id": 233,
+    "artist": "Sabrina Carpenter",
+    "listener": "22,692,514"
+  },
+  {
+    "id": 234,
+    "artist": "Felix Jaehn",
+    "listener": "22,667,299"
+  },
+  {
+    "id": 235,
+    "artist": "NLE Choppa",
+    "listener": "22,550,852"
+  },
+  {
+    "id": 236,
+    "artist": "ZAYN",
+    "listener": "22,504,812"
+  },
+  {
+    "id": 237,
+    "artist": "Mark Ronson",
+    "listener": "22,474,234"
+  },
+  {
+    "id": 238,
+    "artist": "Tanishk Bagchi",
+    "listener": "22,463,056"
+  },
+  {
+    "id": 239,
+    "artist": "Billy Joel",
+    "listener": "22,411,365"
+  },
+  {
+    "id": 240,
+    "artist": "Alok",
+    "listener": "22,398,207"
+  },
+  {
+    "id": 241,
+    "artist": "Nicki Nicole",
+    "listener": "22,395,330"
+  },
+  {
+    "id": 242,
+    "artist": "Ne-Yo",
+    "listener": "22,330,700"
+  },
+  {
+    "id": 243,
+    "artist": "John Legend",
+    "listener": "22,310,242"
+  },
+  {
+    "id": 244,
+    "artist": "Macklemore & Ryan Lewis",
+    "listener": "22,295,883"
+  },
+  {
+    "id": 245,
+    "artist": "Måneskin",
+    "listener": "22,280,696"
+  },
+  {
+    "id": 246,
+    "artist": "Ryan Lewis",
+    "listener": "22,262,451"
+  },
+  {
+    "id": 247,
+    "artist": "Jonas Brothers",
+    "listener": "22,248,716"
+  },
+  {
+    "id": 248,
+    "artist": "Foo Fighters",
+    "listener": "22,166,527"
+  },
+  {
+    "id": 249,
+    "artist": "Zion & Lennox",
+    "listener": "22,119,007"
+  },
+  {
+    "id": 250,
+    "artist": "Polo G",
+    "listener": "22,070,232"
+  },
+  {
+    "id": 251,
+    "artist": "Clean Bandit",
+    "listener": "21,992,607"
+  },
+  {
+    "id": 252,
+    "artist": "Luke Combs",
+    "listener": "21,870,911"
+  },
+  {
+    "id": 253,
+    "artist": "Dave",
+    "listener": "21,848,118"
+  },
+  {
+    "id": 254,
+    "artist": "Tory Lanez",
+    "listener": "21,833,200"
+  },
+  {
+    "id": 255,
+    "artist": "Vance Joy",
+    "listener": "21,814,799"
+  },
+  {
+    "id": 256,
+    "artist": "Lizzo",
+    "listener": "21,771,446"
+  },
+  {
+    "id": 257,
+    "artist": "PNAU",
+    "listener": "21,693,788"
+  },
+  {
+    "id": 258,
+    "artist": "Libianca",
+    "listener": "21,680,507"
+  },
+  {
+    "id": 259,
+    "artist": "Wisin & Yandel",
+    "listener": "21,679,205"
+  },
+  {
+    "id": 260,
+    "artist": "Daft Punk",
+    "listener": "21,584,425"
+  },
+  {
+    "id": 261,
+    "artist": "A Boogie Wit da Hoodie",
+    "listener": "21,557,453"
+  },
+  {
+    "id": 262,
+    "artist": "Jubin Nautiyal",
+    "listener": "21,462,059"
+  },
+  {
+    "id": 263,
+    "artist": "El Alfa",
+    "listener": "21,404,066"
+  },
+  {
+    "id": 264,
+    "artist": "Carin Leon",
+    "listener": "21,395,777"
+  },
+  {
+    "id": 265,
+    "artist": "Ruth B.",
+    "listener": "21,394,131"
+  },
+  {
+    "id": 266,
+    "artist": "Tiago PZK",
+    "listener": "21,391,144"
+  },
+  {
+    "id": 267,
+    "artist": "MEDUZA",
+    "listener": "21,387,341"
+  },
+  {
+    "id": 268,
+    "artist": "Alec Benjamin",
+    "listener": "21,378,008"
+  },
+  {
+    "id": 269,
+    "artist": "Roddy Ricch",
+    "listener": "21,341,425"
+  },
+  {
+    "id": 270,
+    "artist": "Skrillex",
+    "listener": "21,294,888"
+  },
+  {
+    "id": 271,
+    "artist": "Camilo",
+    "listener": "21,279,243"
+  },
+  {
+    "id": 272,
+    "artist": "Sech",
+    "listener": "21,231,299"
+  },
+  {
+    "id": 273,
+    "artist": "The Killers",
+    "listener": "21,209,869"
+  },
+  {
+    "id": 274,
+    "artist": "Oliver Tree",
+    "listener": "21,170,007"
+  },
+  {
+    "id": 275,
+    "artist": "TINI",
+    "listener": "21,123,401"
+  },
+  {
+    "id": 276,
+    "artist": "Niall Horan",
+    "listener": "20,928,988"
+  },
+  {
+    "id": 277,
+    "artist": "Anderson .Paak",
+    "listener": "20,788,534"
+  },
+  {
+    "id": 278,
+    "artist": "Summer Walker",
+    "listener": "20,687,447"
+  },
+  {
+    "id": 279,
+    "artist": "Outkast",
+    "listener": "20,679,658"
+  },
+  {
+    "id": 280,
+    "artist": "Eagles",
+    "listener": "20,522,996"
+  },
+  {
+    "id": 281,
+    "artist": "Brent Faiyaz",
+    "listener": "20,398,253"
+  },
+  {
+    "id": 282,
+    "artist": "Mora",
+    "listener": "20,358,070"
+  },
+  {
+    "id": 283,
+    "artist": "Reik",
+    "listener": "20,352,383"
+  },
+  {
+    "id": 284,
+    "artist": "Udit Narayan",
+    "listener": "20,322,438"
+  },
+  {
+    "id": 285,
+    "artist": "U2",
+    "listener": "20,241,763"
+  },
+  {
+    "id": 286,
+    "artist": "Paramore",
+    "listener": "20,230,697"
+  },
+  {
+    "id": 287,
+    "artist": "Christian Nodal",
+    "listener": "20,197,586"
+  },
+  {
+    "id": 288,
+    "artist": "Bastille",
+    "listener": "20,157,933"
+  },
+  {
+    "id": 289,
+    "artist": "Bryan Adams",
+    "listener": "20,152,491"
+  },
+  {
+    "id": 290,
+    "artist": "Phil Collins",
+    "listener": "20,135,282"
+  },
+  {
+    "id": 291,
+    "artist": "Oasis",
+    "listener": "20,122,475"
+  },
+  {
+    "id": 292,
+    "artist": "Bob Marley & The Wailers",
+    "listener": "20,107,625"
+  },
+  {
+    "id": 293,
+    "artist": "070 Shake",
+    "listener": "19,834,782"
+  },
+  {
+    "id": 294,
+    "artist": "Justin Quiles",
+    "listener": "19,811,962"
+  },
+  {
+    "id": 295,
+    "artist": "Plan B",
+    "listener": "19,739,004"
+  },
+  {
+    "id": 296,
+    "artist": "Alesso",
+    "listener": "19,704,164"
+  },
+  {
+    "id": 297,
+    "artist": "Lorde",
+    "listener": "19,668,099"
+  },
+  {
+    "id": 298,
+    "artist": "Alka Yagnik",
+    "listener": "19,639,616"
+  },
+  {
+    "id": 299,
+    "artist": "Burna Boy",
+    "listener": "19,600,896"
+  },
+  {
+    "id": 300,
+    "artist": "Big Sean",
+    "listener": "19,537,684"
+  },
+  {
+    "id": 301,
+    "artist": "TOTO",
+    "listener": "19,523,450"
+  },
+  {
+    "id": 302,
+    "artist": "The Lumineers",
+    "listener": "19,430,058"
+  },
+  {
+    "id": 303,
+    "artist": "Kesha",
+    "listener": "19,383,768"
+  },
+  {
+    "id": 304,
+    "artist": "5 Seconds of Summer",
+    "listener": "19,357,429"
+  },
+  {
+    "id": 305,
+    "artist": "Pink Floyd",
+    "listener": "19,306,771"
+  },
+  {
+    "id": 306,
+    "artist": "De La Ghetto",
+    "listener": "19,201,827"
+  },
+  {
+    "id": 307,
+    "artist": "Becky Hill",
+    "listener": "19,173,498"
+  },
+  {
+    "id": 308,
+    "artist": "Florence + The Machine",
+    "listener": "19,157,317"
+  },
+  {
+    "id": 309,
+    "artist": "blackbear",
+    "listener": "19,141,995"
+  },
+  {
+    "id": 310,
+    "artist": "Danny Ocean",
+    "listener": "19,128,192"
+  },
+  {
+    "id": 311,
+    "artist": "Migos",
+    "listener": "19,107,124"
+  },
+  {
+    "id": 312,
+    "artist": "Nile Rodgers",
+    "listener": "19,049,663"
+  },
+  {
+    "id": 313,
+    "artist": "Marvin Gaye",
+    "listener": "18,984,240"
+  },
+  {
+    "id": 314,
+    "artist": "Kelly Clarkson",
+    "listener": "18,948,531"
+  },
+  {
+    "id": 315,
+    "artist": "Baby Keem",
+    "listener": "18,942,733"
+  },
+  {
+    "id": 316,
+    "artist": "KK",
+    "listener": "18,922,679"
+  },
+  {
+    "id": 317,
+    "artist": "Stevie Wonder",
+    "listener": "18,922,034"
+  },
+  {
+    "id": 318,
+    "artist": "Rosa Linn",
+    "listener": "18,910,350"
+  },
+  {
+    "id": 319,
+    "artist": "Tears For Fears",
+    "listener": "18,845,561"
+  },
+  {
+    "id": 320,
+    "artist": "French Montana",
+    "listener": "18,759,336"
+  },
+  {
+    "id": 321,
+    "artist": "Avril Lavigne",
+    "listener": "18,674,571"
+  },
+  {
+    "id": 322,
+    "artist": "Nelly",
+    "listener": "18,621,608"
+  },
+  {
+    "id": 323,
+    "artist": "Led Zeppelin",
+    "listener": "18,609,649"
+  },
+  {
+    "id": 324,
+    "artist": "Trippie Redd",
+    "listener": "18,592,115"
+  },
+  {
+    "id": 325,
+    "artist": "Joel Corry",
+    "listener": "18,563,832"
+  },
+  {
+    "id": 326,
+    "artist": "Luis R Conriquez",
+    "listener": "18,530,035"
+  },
+  {
+    "id": 327,
+    "artist": "Ñengo Flow",
+    "listener": "18,495,165"
+  },
+  {
+    "id": 328,
+    "artist": "Journey",
+    "listener": "18,482,667"
+  },
+  {
+    "id": 329,
+    "artist": "YoungBoy Never Broke Again",
+    "listener": "18,438,937"
+  },
+  {
+    "id": 330,
+    "artist": "Dominic Fike",
+    "listener": "18,418,062"
+  },
+  {
+    "id": 331,
+    "artist": "Luis Miguel",
+    "listener": "18,377,683"
+  },
+  {
+    "id": 332,
+    "artist": "Shaggy",
+    "listener": "18,366,140"
+  },
+  {
+    "id": 333,
+    "artist": "Lauv",
+    "listener": "18,352,327"
+  },
+  {
+    "id": 334,
+    "artist": "Lil Tjay",
+    "listener": "18,248,912"
+  },
+  {
+    "id": 335,
+    "artist": "Elvis Presley",
+    "listener": "18,165,734"
+  },
+  {
+    "id": 336,
+    "artist": "Vishal Dadlani",
+    "listener": "18,133,460"
+  },
+  {
+    "id": 337,
+    "artist": "blink-182",
+    "listener": "18,114,024"
+  },
+  {
+    "id": 338,
+    "artist": "Steve Aoki",
+    "listener": "18,024,280"
+  },
+  {
+    "id": 339,
+    "artist": "System Of A Down",
+    "listener": "18,015,255"
+  },
+  {
+    "id": 340,
+    "artist": "Rels B",
+    "listener": "18,006,618"
+  },
+  {
+    "id": 341,
+    "artist": "Imanbek",
+    "listener": "17,986,022"
+  },
+  {
+    "id": 342,
+    "artist": "League of Legends",
+    "listener": "17,938,773"
+  },
+  {
+    "id": 343,
+    "artist": "Mohit Chauhan",
+    "listener": "17,932,010"
+  },
+  {
+    "id": 344,
+    "artist": "Gabito Ballesteros",
+    "listener": "17,926,422"
+  },
+  {
+    "id": 345,
+    "artist": "Little Mix",
+    "listener": "17,868,684"
+  },
+  {
+    "id": 346,
+    "artist": "Shankar Mahadevan",
+    "listener": "17,863,021"
+  },
+  {
+    "id": 347,
+    "artist": "Santana",
+    "listener": "17,857,138"
+  },
+  {
+    "id": 348,
+    "artist": "George Ezra",
+    "listener": "17,809,803"
+  },
+  {
+    "id": 349,
+    "artist": "The Offspring",
+    "listener": "17,751,860"
+  },
+  {
+    "id": 350,
+    "artist": "Emilia",
+    "listener": "17,725,678"
+  },
+  {
+    "id": 351,
+    "artist": "Cigarettes After Sex",
+    "listener": "17,596,726"
+  },
+  {
+    "id": 352,
+    "artist": "Prince Royce",
+    "listener": "17,592,765"
+  },
+  {
+    "id": 353,
+    "artist": "R.E.M.",
+    "listener": "17,587,194"
+  },
+  {
+    "id": 354,
+    "artist": "Train",
+    "listener": "17,510,705"
+  },
+  {
+    "id": 355,
+    "artist": "Earth, Wind & Fire",
+    "listener": "17,488,561"
+  },
+  {
+    "id": 356,
+    "artist": "Troye Sivan",
+    "listener": "17,480,023"
+  },
+  {
+    "id": 357,
+    "artist": "Shania Twain",
+    "listener": "17,454,685"
+  },
+  {
+    "id": 358,
+    "artist": "Aventura",
+    "listener": "17,431,720"
+  },
+  {
+    "id": 359,
+    "artist": "a-ha",
+    "listener": "17,427,583"
+  },
+  {
+    "id": 360,
+    "artist": "Dean Lewis",
+    "listener": "17,421,461"
+  },
+  {
+    "id": 361,
+    "artist": "Dire Straits",
+    "listener": "17,377,553"
+  },
+  {
+    "id": 362,
+    "artist": "Backstreet Boys",
+    "listener": "17,367,548"
+  },
+  {
+    "id": 363,
+    "artist": "Juanes",
+    "listener": "17,353,977"
+  },
+  {
+    "id": 364,
+    "artist": "Julia Michaels",
+    "listener": "17,292,198"
+  },
+  {
+    "id": 365,
+    "artist": "B.o.B",
+    "listener": "17,274,398"
+  },
+  {
+    "id": 366,
+    "artist": "Sachet Tandon",
+    "listener": "17,244,328"
+  },
+  {
+    "id": 367,
+    "artist": "Sonu Nigam",
+    "listener": "17,157,383"
+  },
+  {
+    "id": 368,
+    "artist": "Ella Henderson",
+    "listener": "17,124,647"
+  },
+  {
+    "id": 369,
+    "artist": "Ovy On The Drums",
+    "listener": "17,116,491"
+  },
+  {
+    "id": 370,
+    "artist": "NewJeans",
+    "listener": "17,096,861"
+  },
+  {
+    "id": 371,
+    "artist": "The Cure",
+    "listener": "17,090,987"
+  },
+  {
+    "id": 372,
+    "artist": "Atif Aslam",
+    "listener": "17,081,964"
+  },
+  {
+    "id": 373,
+    "artist": "Hotel Ugly",
+    "listener": "17,058,255"
+  },
+  {
+    "id": 374,
+    "artist": "Chris Stapleton",
+    "listener": "17,057,400"
+  },
+  {
+    "id": 375,
+    "artist": "Jax Jones",
+    "listener": "17,043,291"
+  },
+  {
+    "id": 376,
+    "artist": "Timbaland",
+    "listener": "16,960,435"
+  },
+  {
+    "id": 377,
+    "artist": "Bryson Tiller",
+    "listener": "16,956,461"
+  },
+  {
+    "id": 378,
+    "artist": "Carly Rae Jepsen",
+    "listener": "16,952,964"
+  },
+  {
+    "id": 379,
+    "artist": "G-Eazy",
+    "listener": "16,925,296"
+  },
+  {
+    "id": 380,
+    "artist": "Gesaffelstein",
+    "listener": "16,922,919"
+  },
+  {
+    "id": 381,
+    "artist": "Ice Cube",
+    "listener": "16,920,065"
+  },
+  {
+    "id": 382,
+    "artist": "FMK",
+    "listener": "16,879,829"
+  },
+  {
+    "id": 383,
+    "artist": "Jay Wheeler",
+    "listener": "16,874,277"
+  },
+  {
+    "id": 384,
+    "artist": "David Bowie",
+    "listener": "16,864,156"
+  },
+  {
+    "id": 385,
+    "artist": "Jason Mraz",
+    "listener": "16,813,034"
+  },
+  {
+    "id": 386,
+    "artist": "DJ Luian",
+    "listener": "16,761,586"
+  },
+  {
+    "id": 387,
+    "artist": "Keane",
+    "listener": "16,711,277"
+  },
+  {
+    "id": 388,
+    "artist": "NF",
+    "listener": "16,701,580"
+  },
+  {
+    "id": 389,
+    "artist": "Bruce Springsteen",
+    "listener": "16,664,059"
+  },
+  {
+    "id": 390,
+    "artist": "Mac DeMarco",
+    "listener": "16,650,794"
+  },
+  {
+    "id": 391,
+    "artist": "Topic",
+    "listener": "16,634,144"
+  },
+  {
+    "id": 392,
+    "artist": "Mambo Kingz",
+    "listener": "16,626,843"
+  },
+  {
+    "id": 393,
+    "artist": "benny blanco",
+    "listener": "16,525,418"
+  },
+  {
+    "id": 394,
+    "artist": "Alessia Cara",
+    "listener": "16,448,186"
+  },
+  {
+    "id": 395,
+    "artist": "LIT killah",
+    "listener": "16,442,457"
+  },
+  {
+    "id": 396,
+    "artist": "John Mayer",
+    "listener": "16,422,649"
+  },
+  {
+    "id": 397,
+    "artist": "Sunidhi Chauhan",
+    "listener": "16,366,740"
+  },
+  {
+    "id": 398,
+    "artist": "The Cranberries",
+    "listener": "16,310,600"
+  },
+  {
+    "id": 399,
+    "artist": "The Script",
+    "listener": "16,289,903"
+  },
+  {
+    "id": 400,
+    "artist": "Melanie Martinez",
+    "listener": "16,288,387"
+  },
+  {
+    "id": 401,
+    "artist": "Zedd",
+    "listener": "16,238,751"
+  },
+  {
+    "id": 402,
+    "artist": "Nicky Youre",
+    "listener": "16,214,286"
+  },
+  {
+    "id": 403,
+    "artist": "Daryl Hall & John Oates",
+    "listener": "16,179,238"
+  },
+  {
+    "id": 404,
+    "artist": "NATTI NATASHA",
+    "listener": "16,144,000"
+  },
+  {
+    "id": 405,
+    "artist": "PARTYNEXTDOOR",
+    "listener": "16,094,141"
+  },
+  {
+    "id": 406,
+    "artist": "Maná",
+    "listener": "16,036,946"
+  },
+  {
+    "id": 407,
+    "artist": "Armaan Malik",
+    "listener": "15,983,806"
+  },
+  {
+    "id": 408,
+    "artist": "Lynyrd Skynyrd",
+    "listener": "15,972,653"
+  },
+  {
+    "id": 409,
+    "artist": "Tove Lo",
+    "listener": "15,923,908"
+  },
+  {
+    "id": 410,
+    "artist": "Gucci Mane",
+    "listener": "15,902,740"
+  },
+  {
+    "id": 411,
+    "artist": "Piso 21",
+    "listener": "15,898,472"
+  },
+  {
+    "id": 412,
+    "artist": "My Chemical Romance",
+    "listener": "15,868,725"
+  },
+  {
+    "id": 413,
+    "artist": "George Michael",
+    "listener": "15,862,603"
+  },
+  {
+    "id": 414,
+    "artist": "Alejandro Fernández",
+    "listener": "15,857,460"
+  },
+  {
+    "id": 415,
+    "artist": "Beéle",
+    "listener": "15,850,754"
+  },
+  {
+    "id": 416,
+    "artist": "Bomba Estéreo",
+    "listener": "15,838,419"
+  },
+  {
+    "id": 417,
+    "artist": "Milky Chance",
+    "listener": "15,821,766"
+  },
+  {
+    "id": 418,
+    "artist": "Big One",
+    "listener": "15,818,689"
+  },
+  {
+    "id": 419,
+    "artist": "Kungs",
+    "listener": "15,804,560"
+  },
+  {
+    "id": 420,
+    "artist": "Shilpa Rao",
+    "listener": "15,778,441"
+  },
+  {
+    "id": 421,
+    "artist": "Ricky Martin",
+    "listener": "15,717,770"
+  },
+  {
+    "id": 422,
+    "artist": "Galantis",
+    "listener": "15,681,318"
+  },
+  {
+    "id": 423,
+    "artist": "Grupo Firme",
+    "listener": "15,666,295"
+  },
+  {
+    "id": 424,
+    "artist": "B Praak",
+    "listener": "15,630,005"
+  },
+  {
+    "id": 425,
+    "artist": "Jessie J",
+    "listener": "15,565,833"
+  },
+  {
+    "id": 426,
+    "artist": "The White Stripes",
+    "listener": "15,547,773"
+  },
+  {
+    "id": 427,
+    "artist": "Sky Rompiendo",
+    "listener": "15,524,901"
+  },
+  {
+    "id": 428,
+    "artist": "Kings of Leon",
+    "listener": "15,497,541"
+  },
+  {
+    "id": 429,
+    "artist": "CKay",
+    "listener": "15,457,690"
+  },
+  {
+    "id": 430,
+    "artist": "Gabry Ponte",
+    "listener": "15,441,425"
+  },
+  {
+    "id": 431,
+    "artist": "Nickelback",
+    "listener": "15,439,298"
+  },
+  {
+    "id": 432,
+    "artist": "Neha Kakkar",
+    "listener": "15,426,598"
+  },
+  {
+    "id": 433,
+    "artist": "Banda MS de Sergio Lizárraga",
+    "listener": "15,380,617"
+  },
+  {
+    "id": 434,
+    "artist": "Loreen",
+    "listener": "15,376,564"
+  },
+  {
+    "id": 435,
+    "artist": "Badshah",
+    "listener": "15,335,754"
+  },
+  {
+    "id": 436,
+    "artist": "6LACK",
+    "listener": "15,334,071"
+  },
+  {
+    "id": 437,
+    "artist": "Bill Withers",
+    "listener": "15,308,474"
+  },
+  {
+    "id": 438,
+    "artist": "Parampara Tandon",
+    "listener": "15,307,583"
+  },
+  {
+    "id": 439,
+    "artist": "Chinmayi",
+    "listener": "15,262,296"
+  },
+  {
+    "id": 440,
+    "artist": "Sam Feldt",
+    "listener": "15,261,426"
+  },
+  {
+    "id": 441,
+    "artist": "Cyndi Lauper",
+    "listener": "15,217,596"
+  },
+  {
+    "id": 442,
+    "artist": "Paulo Londra",
+    "listener": "15,144,067"
+  },
+  {
+    "id": 443,
+    "artist": "New West",
+    "listener": "15,142,936"
+  },
+  {
+    "id": 444,
+    "artist": "Ana Castela",
+    "listener": "15,128,179"
+  },
+  {
+    "id": 445,
+    "artist": "The 1975",
+    "listener": "15,020,250"
+  },
+  {
+    "id": 446,
+    "artist": "King",
+    "listener": "15,010,869"
+  },
+  {
+    "id": 447,
+    "artist": "Gwen Stefani",
+    "listener": "14,965,758"
+  },
+  {
+    "id": 448,
+    "artist": "Annie Lennox",
+    "listener": "14,959,932"
+  },
+  {
+    "id": 449,
+    "artist": "Cris Mj",
+    "listener": "14,958,241"
+  },
+  {
+    "id": 450,
+    "artist": "Morat",
+    "listener": "14,913,783"
+  },
+  {
+    "id": 451,
+    "artist": "MC Ryan SP",
+    "listener": "14,900,351"
+  },
+  {
+    "id": 452,
+    "artist": "Darshan Raval",
+    "listener": "14,886,151"
+  },
+  {
+    "id": 453,
+    "artist": "Vishal Mishra",
+    "listener": "14,879,045"
+  },
+  {
+    "id": 454,
+    "artist": "Tulsi Kumar",
+    "listener": "14,857,016"
+  },
+  {
+    "id": 455,
+    "artist": "Julieta Venegas",
+    "listener": "14,854,025"
+  },
+  {
+    "id": 456,
+    "artist": "X Ambassadors",
+    "listener": "14,838,957"
+  },
+  {
+    "id": 457,
+    "artist": "Rusherking",
+    "listener": "14,835,254"
+  },
+  {
+    "id": 458,
+    "artist": "Madison Beer",
+    "listener": "14,828,204"
+  },
+  {
+    "id": 459,
+    "artist": "sped up nightcore",
+    "listener": "14,826,865"
+  },
+  {
+    "id": 460,
+    "artist": "Shankar-Ehsaan-Loy",
+    "listener": "14,803,435"
+  },
+  {
+    "id": 461,
+    "artist": "Armin van Buuren",
+    "listener": "14,793,858"
+  },
+  {
+    "id": 462,
+    "artist": "Rex Orange County",
+    "listener": "14,785,636"
+  },
+  {
+    "id": 463,
+    "artist": "Eden Muñoz",
+    "listener": "14,772,053"
+  },
+  {
+    "id": 464,
+    "artist": "Amy Winehouse",
+    "listener": "14,748,955"
+  },
+  {
+    "id": 465,
+    "artist": "Charli XCX",
+    "listener": "14,748,383"
+  },
+  {
+    "id": 466,
+    "artist": "Tones And I",
+    "listener": "14,737,476"
+  },
+  {
+    "id": 467,
+    "artist": "Ryan Castro",
+    "listener": "14,700,796"
+  },
+  {
+    "id": 468,
+    "artist": "Shekhar Ravjiani",
+    "listener": "14,691,887"
+  },
+  {
+    "id": 469,
+    "artist": "TV Girl",
+    "listener": "14,637,472"
+  },
+  {
+    "id": 470,
+    "artist": "Black Sabbath",
+    "listener": "14,632,921"
+  },
+  {
+    "id": 471,
+    "artist": "Russ",
+    "listener": "14,632,839"
+  },
+  {
+    "id": 472,
+    "artist": "24kGoldn",
+    "listener": "14,627,911"
+  },
+  {
+    "id": 473,
+    "artist": "Maren Morris",
+    "listener": "14,617,155"
+  },
+  {
+    "id": 474,
+    "artist": "Mike Posner",
+    "listener": "14,613,332"
+  },
+  {
+    "id": 475,
+    "artist": "Lil Peep",
+    "listener": "14,589,744"
+  },
+  {
+    "id": 476,
+    "artist": "Anirudh Ravichander",
+    "listener": "14,578,684"
+  },
+  {
+    "id": 477,
+    "artist": "Carlos Vives",
+    "listener": "14,573,195"
+  },
+  {
+    "id": 478,
+    "artist": "Purple Disco Machine",
+    "listener": "14,547,823"
+  },
+  {
+    "id": 479,
+    "artist": "Himesh Reshammiya",
+    "listener": "14,535,206"
+  },
+  {
+    "id": 480,
+    "artist": "LUDMILLA",
+    "listener": "14,492,823"
+  },
+  {
+    "id": 481,
+    "artist": "dazy",
+    "listener": "14,435,731"
+  },
+  {
+    "id": 482,
+    "artist": "Lenny Tavárez",
+    "listener": "14,425,853"
+  },
+  {
+    "id": 483,
+    "artist": "Asees Kaur",
+    "listener": "14,402,146"
+  },
+  {
+    "id": 484,
+    "artist": "Kylie Minogue",
+    "listener": "14,387,785"
+  },
+  {
+    "id": 485,
+    "artist": "Passenger",
+    "listener": "14,374,623"
+  },
+  {
+    "id": 486,
+    "artist": "Wisin",
+    "listener": "14,351,447"
+  },
+  {
+    "id": 487,
+    "artist": "Rochak Kohli",
+    "listener": "14,346,184"
+  },
+  {
+    "id": 488,
+    "artist": "Tina Turner",
+    "listener": "14,321,640"
+  },
+  {
+    "id": 489,
+    "artist": "Arcane",
+    "listener": "14,310,521"
+  },
+  {
+    "id": 490,
+    "artist": "Dermot Kennedy",
+    "listener": "14,292,316"
+  },
+  {
+    "id": 491,
+    "artist": "Yahritza Y Su Esencia",
+    "listener": "14,282,674"
+  },
+  {
+    "id": 492,
+    "artist": "Disclosure",
+    "listener": "14,272,814"
+  },
+  {
+    "id": 493,
+    "artist": "Bring Me The Horizon",
+    "listener": "14,237,491"
+  },
+  {
+    "id": 494,
+    "artist": "Dan + Shay",
+    "listener": "14,220,930"
+  },
+  {
+    "id": 495,
+    "artist": "Machine Gun Kelly",
+    "listener": "14,210,637"
+  },
+  {
+    "id": 496,
+    "artist": "Meek Mill",
+    "listener": "14,188,760"
+  },
+  {
+    "id": 497,
+    "artist": "Destiny's Child",
+    "listener": "14,167,774"
+  },
+  {
+    "id": 498,
+    "artist": "Kunaal Vermaa",
+    "listener": "14,130,144"
+  },
+  {
+    "id": 499,
+    "artist": "Empire of the Sun",
+    "listener": "14,124,600"
+  },
+  {
+    "id": 500,
+    "artist": "Blessd",
+    "listener": "14,114,487"
+  }
+]

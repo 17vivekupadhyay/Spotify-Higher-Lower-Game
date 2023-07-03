@@ -1,0 +1,16 @@
+.classified {
+  color: #fff;
+  font-family: 'Arial', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.futuristic {
+  background-color: #000;
+  padding: 20px;
+  border-radius: 10px;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
